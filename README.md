@@ -38,4 +38,14 @@ This project performs **sentiment analysis** and **time series forecasting** on 
 - Preprocessing steps include text cleaning, stopword removal, and formatting timestamps for forecasting
 
 ---
+## Prediction
+
+<img width="621" height="429" alt="predicted" src="https://github.com/user-attachments/assets/66f5d0e1-c96a-41e9-aa04-6074526a164d" />
+
+## Dashboards
+
+<img width="1339" height="699" alt="Dashboard 1" src="https://github.com/user-attachments/assets/1bb887cb-8186-4182-bc4b-298017dd9b14" />
+<img width="1324" height="669" alt="Dashboard 2" src="https://github.com/user-attachments/assets/3766636b-a2dd-420e-b8d0-202584e8ba66" />
+
+
 
